@@ -150,7 +150,7 @@ body {
   
   z-index: 100;
   background-color: var(--body-color);
-  width: 100%;
+  width: 100vw;
 }
 
 #header.scroll {
