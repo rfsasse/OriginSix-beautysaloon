@@ -38,7 +38,7 @@ function changeHeaderWhenScroll() {
 /*O breack point ira acontecer quando identificar uma tela maior que determinado tamanho*/
 
 /* Testimonials carousel slider swiper */
-const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper('.swiper', {
   slidesPerView: 1,
   pagination: {
     el: '.swiper-pagination'
